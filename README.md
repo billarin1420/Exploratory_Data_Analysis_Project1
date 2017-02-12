@@ -1,11 +1,12 @@
 # Exploratory_Data_Analysis_Project1
 Exploratory Data Analysis Project1
 
-It is is the program and .png output files for the project1
+Below a brief explanation on the setting needed in your PC to run the programs for the project1
+of the exploratory data analysis course part of the Jhons Hopkins coursera data science specialization.
 
-Set "C:/Exploratory Project" as working directory
+Create and set "C:/Exploratory Project" as working directory
 
-Download the dataset in previous working directory and make sure the name of the dataset is household_power_consumption.txt
+Download the dataset in the previous working directory, making sure the name of the dataset is household_power_consumption.txt
 
 Put the four .R files (ie. Plot1.R, Plot2.R, Plot3.R, Plot4.R) in the previous directory
 
