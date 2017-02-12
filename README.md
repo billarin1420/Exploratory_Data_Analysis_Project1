@@ -10,5 +10,5 @@ Download the dataset in the previous working directory, making sure the name of 
 
 Put the four .R files (ie. Plot1.R, Plot2.R, Plot3.R, Plot4.R) in the previous directory
 
-When runningn every single .R file you are getting the four .png files (ie. plot1.png, plot2.png, plot3.png, plot4.png)
+When running every single .R file you are getting the four .png files (ie. plot1.png, plot2.png, plot3.png, plot4.png)
 
