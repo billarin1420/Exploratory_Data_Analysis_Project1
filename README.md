@@ -2,7 +2,7 @@
 Exploratory Data Analysis Project1
 
 Below a brief explanation on the setting needed in your PC to run the programs for the project1
-of the exploratory data analysis course part of the Jhons Hopkins coursera data science specialization.
+of the exploratory data analysis course, part of the Johns Hopkins coursera data science specialization.
 
 Create and set "C:/Exploratory Project" as working directory
 
